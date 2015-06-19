@@ -27,7 +27,7 @@ See the screenshots for an example of what an Editor would see when they view a 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Select your locked/protected posts under Settings > Post Lockdown
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 = What is a "non-admin user"? =
 

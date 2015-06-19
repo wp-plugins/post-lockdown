@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Allows admins to lock selected posts and pages so they cannot be edited or deleted by non-admin users.
 
-= Description ==
+== Description ==
 
 Post Lockdown locks your site-critical pages and posts by disabling all non-admin users' ability to edit or delete them.
 It can also protect pages and posts, which will allow editing of them but still disable trashing and deleting.

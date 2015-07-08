@@ -4,7 +4,7 @@ Donate link: http://bit.ly/1b2f6OL
 Tags: posts, lock, protect, capabilities, capability, trash, delete
 Requires at least: 3.8
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,11 +47,23 @@ The following filters are used throughout the plugin:
 
 == Screenshots ==
 
-1. A page list showing one locked page, one protected page and one regular page.
+1. A page list showing one regular page, one locked page and one protected page.
 2. The Publish metabox for a protected page logged in as an Editor. See how the plugin removes the Move to Trash link.
 3. The Post Lockdown administration page.
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Fixed a PHP warning and added missing admin notices file.
+
+= 1.1 =
+
+* Added functionality to prevent non-admins changing the post status of a protected published post to something which could remove it from the front end e.g Draft, Private or Scheduled.
+* Fixed an issue which caused a PHP warning when a non-admin used the Quick Edit box for a protected post.
+* Added new version of multi select plugin.
+* Lots of optimisations and general improvements.
+
 
 = 1.0.1 =
 

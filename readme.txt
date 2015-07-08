@@ -4,7 +4,7 @@ Donate link: http://bit.ly/1b2f6OL
 Tags: posts, lock, protect, capabilities, capability, trash, delete
 Requires at least: 3.8
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,10 @@ The following filters are used throughout the plugin:
 3. The Post Lockdown administration page.
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Fixed a PHP warning and added missing admin notices file.
 
 = 1.1 =
 
